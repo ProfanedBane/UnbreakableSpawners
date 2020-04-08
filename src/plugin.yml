@@ -1,0 +1,5 @@
+name: UnbreakableSpawners
+version: 1.0.0
+author: ProfanedBane
+main: com.gmail.profanedbane.UnbreakableSpawners.UnbreakableSpawners
+description: NMS override to make mob spawners as strong as bedrock.
